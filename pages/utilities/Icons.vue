@@ -1,5 +1,5 @@
 <script setup>
-import { IconService } from '@/service/IconService';
+import { IconService } from '../../service/IconService';
 import { computed, onMounted, ref } from 'vue';
 
 const icons = ref(null);

@@ -1,5 +1,5 @@
 <script setup>
-import AppConfig from '@/layouts/AppConfig.vue';
+import AppConfig from '../../layouts/AppConfig.vue';
 
 definePageMeta({
     layout: false
