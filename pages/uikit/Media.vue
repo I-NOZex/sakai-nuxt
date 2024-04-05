@@ -104,6 +104,6 @@ onMounted(() => {
 </template>
 
 <style lang="scss" scoped>
-@import '@/assets/demo/styles/badges.scss';
-@import '@/assets/demo/styles/items.scss';
+@import '../../assets/demo/styles/badges.scss';
+@import '../../assets/demo/styles/items.scss';
 </style>
